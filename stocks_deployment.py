@@ -134,7 +134,7 @@ def fun():
 
 
 
-    st.title("Optimization of Stock Trading Using <br><br><center> Reinforcement-Learning 📈 📉","https://github.com/Mchilamwar")
+    st.title("Optimization of Stock Trading Using <br><br><center> Reinforcement-Learning 📈 📉","https://github.com/akashloka")
     st.subheader("👉 Here this model will improvise your normal Trading Strategies and  will increase your net profit by RL techniques 💰💰💰")
     
     st.sidebar.title("Choose Stock and Investment ")
